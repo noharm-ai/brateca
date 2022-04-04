@@ -16,8 +16,8 @@ For those looking to be credentialed for access to the BRATECA dataset, please r
  
 # Data Access
 In order to receive access, the researcher must complete the following steps:
+ - access [Physionet platform](https://physionet.org/content/brateca)
  - complete a course on protecting human research participants
- - [agree to BRATECA's terms of confidentiality](https://forms.gle/raNi1TnJejYLyPZR8)
  - If the requester is a student, their supervisor must also agree to the terms of confidentiality
 
 Once the process is complete, the researcher's request will be evaluated. The evaluation may take up to two weeks. If the request is accepted, the researcher will be granted access to the dataset.
