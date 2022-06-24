@@ -23,4 +23,4 @@ In order to receive access, the researcher must complete the following steps:
 Once the process is complete, the researcher's request will be evaluated. The evaluation may take up to two weeks. If the request is accepted, the researcher will be granted access to the dataset.
 
 # Citing This Work
-[Full Text](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.602.pdf), [BibText](https://raw.githubusercontent.com/noharm-ai/brateca/master/consoli2022brateca.bib)
+[Full Text](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.602.pdf), [BibText](https://github.com/noharm-ai/brateca/blob/main/consoli2022brateca.bib)
